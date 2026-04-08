@@ -69,27 +69,40 @@ with a strong focus on clean architecture and user experience.
 
 ## 🏗️ What I’m Building Now
 
-- **Full-Stack Web Applications** using Next.js with Laravel & Express.js REST APIs
-- **Modular Business Management System** with role-based access and scalable architecture
-- **AI-Powered Web Applications** focused on Smart Apps and Automation
+- Full-Stack Web Applications (Next.js + Laravel / Express)
+- Modular Business Systems (RBAC & scalable architecture)
+- AI-Powered Web Applications (Smart Apps & Automation)
 
 ---
 
 ## 📊 GitHub Statistics
 
-![Rifki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RifkiFrds&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RifkiFrds&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RifkiFrds&theme=radical"/>
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?logo=linkedin)](https://www.linkedin.com/in/muhamad-rifki-firdaus-27a925317)
-[![Instagram](https://img.shields.io/badge/Instagram-Personal-orange?logo=instagram)](https://www.instagram.com/frdskii_/)
+<p align="center">
+  <a href="https://github.com/RifkiFrds">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhamad-rifki-firdaus-27a925317">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/frdskii_/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
 ---
 
 ## 👁️ Profile Visitors
 
 ![Visitor](https://count.getloli.com/get/@RifkiFrds-RifkiFrds?theme=dark)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>

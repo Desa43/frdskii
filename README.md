@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rifki</h1>
 
 <h3 align="center">
-Aspiring Software Engineer & Front-End Developer<br/>
+Software Engineer | Frontend Specialist | AI & Product Enthusiast<br/>
 Computer Science Student at Universitas Muhammadiyah Tangerang
 </h3>
 
